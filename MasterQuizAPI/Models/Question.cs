@@ -2,8 +2,8 @@
 {
     public class Question
     {
-        public int QuestId { get; set; }    
-        public int QuestNumber { get; set; }
-        public string? QuestText { get; set; }
+        public int QuestionId { get; set; }    
+        public int QuestionNumber { get; set; }
+        public string? QuestionText { get; set; }
     }
 }

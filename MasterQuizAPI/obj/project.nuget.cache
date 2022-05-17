@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iI4zwy/dVa/yLxNFcJapIkvPei4if2a0ByoJLtISJqiOVIbu20hasgo4pBPTXF3Bdseoiy8i6tsPtmeEzz/Apw==",
+  "dgSpecHash": "QAaHhwNVvIEyRJb2Qv1DwKmiARUwzLc/N++gi5Wji1DMbNCdkca14Yg9vCCQKlfibbNSae88v92pwy6FDaw2+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\richa\\Desktop\\MasterQuizAPI\\MasterQuizAPI\\MasterQuizAPI.csproj",
   "expectedPackageFiles": [
@@ -37,7 +37,7 @@
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.5\\microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.5\\microsoft.entityframeworkcore.analyzers.6.0.5.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.5\\microsoft.entityframeworkcore.design.6.0.5.nupkg.sha512",
-    "C:\\Users\\richa\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\6.0.5\\microsoft.entityframeworkcore.inmemory.6.0.5.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\6.0.4\\microsoft.entityframeworkcore.inmemory.6.0.4.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.5\\microsoft.entityframeworkcore.relational.6.0.5.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.5\\microsoft.entityframeworkcore.sqlserver.6.0.5.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.5\\microsoft.entityframeworkcore.tools.6.0.5.nupkg.sha512",

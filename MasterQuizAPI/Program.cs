@@ -9,6 +9,9 @@ builder.Services.AddControllers();
 
 builder.Services.AddDbContext<QuestionsContext>(opt =>
     opt.UseInMemoryDatabase("MasterQuiz"));
+
+builder.Services.AddDbContext<ChoicesContext>(opt =>
+    opt.UseInMemoryDatabase("MasterQuiz"));
 //builder.Services.AddSwaggerGen(c =>
 //{
 //    c.SwaggerDoc("v1", new() { Title = "MasterQuizAPI", Version = "v1" });
