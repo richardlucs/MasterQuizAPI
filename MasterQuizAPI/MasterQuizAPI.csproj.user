@@ -11,5 +11,6 @@
     <WebStackScaffolding_DbContextTypeFullName>MasterQuizAPI.Models.QuestionsContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_DbContextDialogWidth>650</WebStackScaffolding_DbContextDialogWidth>
+    <NameOfLastUsedPublishProfile>C:\Users\richa\Desktop\MasterQuizAPI\MasterQuizAPI\Properties\PublishProfiles\MasterQuizAPI - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

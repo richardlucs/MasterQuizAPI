@@ -289,3 +289,6 @@ C:\Users\richa\Desktop\MasterQuizAPI\MasterQuizAPI\obj\Debug\net6.0\refint\Maste
 C:\Users\richa\Desktop\MasterQuizAPI\MasterQuizAPI\obj\Debug\net6.0\MasterQuizAPI.pdb
 C:\Users\richa\Desktop\MasterQuizAPI\MasterQuizAPI\obj\Debug\net6.0\MasterQuizAPI.genruntimeconfig.cache
 C:\Users\richa\Desktop\MasterQuizAPI\MasterQuizAPI\obj\Debug\net6.0\ref\MasterQuizAPI.dll
+C:\Users\richa\Desktop\MasterQuizAPI\MasterQuizAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\richa\Desktop\MasterQuizAPI\MasterQuizAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\richa\Desktop\MasterQuizAPI\MasterQuizAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
